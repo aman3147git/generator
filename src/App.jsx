@@ -9,7 +9,7 @@ const App = () => {
     green:255,
     blue:255
   })
-  
+  ////
   const refer=useRef(null);
   const submithandler=(e)=>{
     e.preventDefault();
